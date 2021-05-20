@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=GWiktorzak&color=blue&style=plastic&label=👁)
 ### 👋 Hi there 👋
 I'm Graduate of Le Wagon London - Batch #523. 
 
