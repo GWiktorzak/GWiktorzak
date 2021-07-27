@@ -2,7 +2,7 @@
 ### 👋 Hi there 👋
 I'm Graduate of Le Wagon London - Batch #523. 
 
-### Last Project
+### Last Projects
 
 #### Minesweeper
 Based on the classic game, Minesweeper. I tried to recreate the gamend.
