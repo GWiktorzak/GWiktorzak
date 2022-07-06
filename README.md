@@ -4,7 +4,7 @@ I'm a Graduate of Le Wagon London - Batch #523.
 
 Currently, I am working at Netguru as a Ruby on Rails Developer.
 
-### 🏗 In the last Projects I was working with:
+### 🏗 In the last Projects, I worked used
 
 - #️⃣ Bash     
 - ☁️ Cloudinary                      
