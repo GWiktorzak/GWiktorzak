@@ -4,10 +4,9 @@ I'm Graduate of Le Wagon London - Batch #523.
 
 Currently I am working for Netguru as Ruby on Rails Developer.
 
-# 🕺 Key Skills:
-❤️Ruby on Rails 💙SQL 🧡Git 🖤GitHub, 💜Heroku, 🤍VS Code.
 
 ## 🏗 In the last Projects I was working with:
+
 #️⃣ Bash                                                 
 ☁️ Cloudinary                                       
 🆔 Devise                                             
@@ -25,6 +24,6 @@ Currently I am working for Netguru as Ruby on Rails Developer.
 🥇 Working with Quality 
 🎙 Working with feedback
 
-## Learning
+## 🧠 Learning
 🌱 GitHub Actions
 🌱 Rust
