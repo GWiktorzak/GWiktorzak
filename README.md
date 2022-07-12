@@ -6,23 +6,7 @@ Currently, I am working at Netguru as a Ruby on Rails Developer.
 
 ### 🏗 In the last Projects, I worked used
 
-- #️⃣ Bash     
-- ☁️ Cloudinary                      
-- 🆔 Devise                                  
-- 📄 Documentation 
-- 🍇 Grape 
-- 🐘 PostgresSQL 
-- 🔐 Pundit 
-- 🧪 RSpec 
-- 🎢 Rollbar 
-- 💎 Ruby 
-- 🛤 Ruby_on_Rails 
-- 🎯 Setting goals and expectations within the team 
-- 🎬 Swagger 
-- 🗽 Working with Business Value 
-- 🥇 Working with Quality 
-- 🎙 Working with feedback
+#️⃣ Bash ☁️ Cloudinary 🆔 Devise 📄 Documentation 🍇 Grape 🐘 PostgresSQL 🔐 Pundit 🧪 RSpec 🎢 Rollbar 💎 Ruby 🛤 Ruby_on_Rails 🎯 Setting goals and expectations within the team 🎬 Swagger 🗽 Working with Business Value 🥇 Working with Quality 🎙 Working with feedback
 
-### 🧠 Learning
+### 🧠 Currently Learning
 🌱 GitHub Actions
-🌱 Rust
